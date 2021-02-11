@@ -14,4 +14,4 @@ Zoom walkthroughs:
 | Filename                                              | Description                  |
 | ----------------------------------------------------- | ---------------------------- |
 | [step-1_settings.jpg](https://raw.githubusercontent.com/tjg/david-graeber-interdimensional-birthday/main/zoom-background-walkthrough/step-1_settings.jpg) | Zoom walkthrough image #1 |
-| [step-2_settings.jpg](https://raw.githubusercontent.com/tjg/david-graeber-interdimensional-birthday/main/zoom-background-walkthrough/step-2_choose-image.jpg) | Zoom walkthrough image #1 |
+| [step-2_settings.jpg](https://raw.githubusercontent.com/tjg/david-graeber-interdimensional-birthday/main/zoom-background-walkthrough/step-2_choose-image.jpg) | Zoom walkthrough image #2 |
